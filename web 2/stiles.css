@@ -1,0 +1,86 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html {
+    background:#9AECDB;
+}
+
+body { 
+    height: 750px;
+    width: 750px;
+    background: #7bed9f;
+    margin: auto;
+    margin-top: 15px;
+}
+
+header {
+    height: 250px;
+    width: 750px;
+    background: #ff6b81;
+}
+
+#banner {
+    width: 500px;
+    height: 250px;
+    background: #5352ed;
+    float: right;
+}
+
+#images {
+    width: 500px;
+    height: 250px;
+}
+
+#logo {
+    width: 500px;
+    height: 125px;
+    background: #e056fd;
+}
+
+#search {
+    width: 500px;
+    height: 125px;
+    background:#2ecc71 ;
+}
+
+nav {
+    height: 50px;
+    width: 750px;
+    background: #a4b0be;
+}
+
+main {
+    height: 400px;
+    width: 750px;
+    background: #70a1ff;
+    
+}
+
+#left {
+    height: 400px;
+    width: 150px;
+    background:#ecf0f1;
+    float: left;
+}
+
+article {
+    width: 450px;
+    height: 400px;
+    background:#2980b9;
+    float: left;
+}
+
+#right {
+    height: 400px;
+    width: 150px;
+    background: #ecf0f1;
+    float: right;
+}
+
+footer {
+    height: 50px;
+    width: 750px;
+    background: #ff7f50;
+}
